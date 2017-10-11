@@ -1,0 +1,9 @@
+Package: scanbr
+Title: R functions useful for processing SCAN-B data
+Version: 0.0.0.9000
+Authors@R: person("Christian", "Brueffer", email = "christian.brueffer@med.lu.se", role = c("aut", "cre"))
+Description: R functions useful for processing SCAN-B data.
+Depends: R (>= 3.2.3)
+License: MIT
+Encoding: UTF-8
+LazyData: true
